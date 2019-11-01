@@ -1,0 +1,27 @@
+venv
+venv/*
+
+*.pyc
+__pycache__
+__pycache__/*
+
+*.ipynb
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
+
+logs
+logs/*
+
+temp.txt
+*.temp
+
+.idea
+.idea/*
+
+routerserver.tar
+
+# ignore configs
+configs.py
+
+log
+log/*
