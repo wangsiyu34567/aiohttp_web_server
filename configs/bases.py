@@ -12,7 +12,8 @@ MIDDLEWARES = {'log': True, 'auth': True}
 
 WHITELIST = []
 
-SERVICE_TYPE = 'SERVICE_TYPE'
+SERVICE_TYPE = 'SERVICE_TYPE1'
+SERVICE_TYPE_LIST = ['app01', ]
 
 LOG_CONFIG = {
     'type': ['file', 'console'],
